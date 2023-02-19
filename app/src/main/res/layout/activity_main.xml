@@ -137,14 +137,14 @@
 
     <SeekBar
         android:id="@+id/heightseek1"
-        android:layout_width="141dp"
-        android:layout_height="177dp"
+        android:layout_width="124dp"
+        android:layout_height="187dp"
         android:rotation="90"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.733"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.092" />
+        app:layout_constraintVertical_bias="0.086" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
